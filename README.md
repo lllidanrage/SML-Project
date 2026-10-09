@@ -8,6 +8,7 @@
 
 1. 不同 feature representation 在正常图像上的分类能力是否存在明显差异；
 2. 当图像出现 **Gaussian blur** 或 **brightness reduction** 时，不同特征与模型的性能下降模式是否不同。
+3. 不同 feature representations 是分别使用更好，还是将多种 feature 信息结合起来能够获得更稳定的分类表现和更强的 robustness。
 
 为了保证模型之间的比较公平，所有模型使用相同的数据、feature files、corruption conditions，以及完全相同的 nested cross-validation splits。
 
