@@ -1,5 +1,26 @@
 # COMP90051 Statistical Machine Learning Project
 
+## 安装依赖
+
+在项目根目录运行：
+
+```bash
+pip install -r requirements.txt
+```
+
+项目主要使用：
+
+- NumPy
+- pandas
+- Pillow
+- SciPy
+- scikit-image
+- scikit-learn
+- matplotlib
+- threadpoolctl
+- LightGBM
+
+
 ## 项目概述
 
 本项目基于 **Intel Image Classification** 数据集研究场景图像分类，并重点考察不同模型和不同图像特征在图像质量下降时的 **robustness（鲁棒性）**。
@@ -303,22 +324,3 @@ SML-Project/
 
 ---
 
-## 安装依赖
-
-在项目根目录运行：
-
-```bash
-pip install -r requirements.txt
-```
-
-项目主要使用：
-
-- NumPy
-- pandas
-- Pillow
-- SciPy
-- scikit-image
-- scikit-learn
-- matplotlib
-- threadpoolctl
-- LightGBM
