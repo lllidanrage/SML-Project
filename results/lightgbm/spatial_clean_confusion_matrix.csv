@@ -1,0 +1,7 @@
+actual / predicted,buildings,forest,glacier,mountain,sea,street
+buildings,2111,38,43,63,64,309
+forest,23,2600,12,40,10,60
+glacier,23,24,2372,344,162,28
+mountain,28,26,364,2375,229,13
+sea,63,10,210,243,2231,27
+street,281,44,29,29,30,2470

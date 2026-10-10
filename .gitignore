@@ -1,3 +1,7 @@
 /img_data
 /.idea
 /features
+.DS_Store
+.ipynb_checkpoints/
+/results/lightgbm/checkpoints/
+/results/lightgbm/smoke/

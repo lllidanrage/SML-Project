@@ -3,3 +3,7 @@ Pillow
 scipy
 scikit-image
 matplotlib
+pandas
+scikit-learn
+threadpoolctl
+lightgbm==4.7.0
