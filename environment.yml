@@ -1,0 +1,17 @@
+name: comp90051
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - pillow
+  - scipy
+  - scikit-image
+  - matplotlib
+  - pandas
+  - scikit-learn
+  - threadpoolctl
+  - pip
+  - pip:
+      - lightgbm==4.7.0

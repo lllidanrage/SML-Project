@@ -5,7 +5,8 @@
 From the project root:
 
 ```bash
-pip install -r requirements.txt
+conda env create -f environment.yml
+conda activate comp90051
 ```
 
 Key dependencies: NumPy, pandas, Pillow, SciPy, scikit-image, scikit-learn, matplotlib, threadpoolctl, LightGBM.
